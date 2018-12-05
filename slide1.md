@@ -123,6 +123,7 @@ create table Author(
 	primary key (id)
 )
 ```
+<!-- .element: class="fragment" data-fragment-index="0" -->
 Note: W pełni funkcjonująca encja, wymagane są:
 @Entity, @Id oraz konstruktor bezargumentowy
 
